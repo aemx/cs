@@ -8,12 +8,6 @@ It is highly recommended that this collection be used for exemplary and historic
 
 ## Course Listing
 
-### [CS 115 - Intro. to CS I in C++](http://catalog.njit.edu/search/?P=CS%20%20%20115)
+### [CS 115 - Intro. to CS I in C++](https://github.com/aemx/cs/blob/master/cs115)
 
 Fundamentals of computer science are introduced, with emphasis on programming methodology and problem solving. Topics include basic concepts of computer systems, software engineering, algorithm design, programming languages and data abstraction, with applications. The high level language C++ is fully discussed and serves as the vehicle to illustrate many of the concepts.
-
-* [helloworld.cpp](https://github.com/aemx/cs/blob/master/cs115/0911L/helloworld.cpp) - Prints "Hello, World!"
-* [summation.cpp](https://github.com/aemx/cs/blob/master/cs115/0911L/summation.cpp) - Calculates a sum from two integers
-* [average.cpp](https://github.com/aemx/cs/blob/master/cs115/0918L/average.cpp) - Calculates an arithmetic mean from three inputed integers
-* [celsius.cpp](https://github.com/aemx/cs/blob/master/cs115/0918L/celsius.cpp) - Calculates a Celsius temperature from an inputed Farenheit temperature
-* [coinage.cpp](https://github.com/aemx/cs/blob/master/cs115/0918L/coinage.cpp) - Calculates an amount of quarters, dimes, nickels, and pennies from an inputed number of cents
