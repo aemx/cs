@@ -4,7 +4,7 @@ This repository contains a growing collection of undergraduate coursework comple
 
 ## Disclaimer
 
-It is highly recommended that this collection be used for exemplary and historical purposes only. It is also recommended that you do not use these programs to plagiarize the coursework for your own needs at NJIT— I am not held responsible for your actions if you choose to do this. Be warned that the decision to disobey the [Academic Honor Code](https://www.njit.edu/doss/policies/honorcode/index.php) set in place at NJIT may result in your suspension or expulsion from the university.
+It is highly recommended that this collection be used for exemplary and historical purposes only. Additionally, it is recommended that you do not use these programs to plagiarize coursework for your own needs at NJIT— I am not held responsible for your actions if you choose to do this. Be warned that the decision to disobey the [Academic Honor Code](https://www.njit.edu/doss/policies/honorcode/index.php) set in place at NJIT may result in your suspension or expulsion from the university.
 
 ## Course Listing
 
