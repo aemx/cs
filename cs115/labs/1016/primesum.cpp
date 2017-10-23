@@ -26,7 +26,8 @@ int main(void) {
         }
     }
     
-    cout << "The sum of all prime numbers up to " << p << " is equal to: " << sum << endl;
+    cout << "The sum of all prime numbers up to " << p << " is equal to: " << \
+    sum << endl;
 
     return 0;
 }
